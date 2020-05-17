@@ -1,3 +1,7 @@
+* Live Preview <a href="https://peaceful-lichterman-cce927.netlify.app/" target="_blank">LiveDemo</a>
+# View
+<img src="https://github.com/krishnadevz/DeadPoolComics/blob/master/deadpool.gif">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
